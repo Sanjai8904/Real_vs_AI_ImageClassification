@@ -1,0 +1,38 @@
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Original image dataset (can be large)
+dataset/cifake/
